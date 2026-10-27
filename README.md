@@ -1,25 +1,34 @@
-# Data Analyst Journey
+# Data Analyst Portfolio
 
-Welcome to my Data Analyst learning journey!
+Welcome to my Data Analyst Portfolio!
 
-## About Me
-I am a Computer Science graduate building practical skills in data analysis and visualization.
+I am a B.Sc. Computer Science graduate building my skills in data analytics, Python programming, and data visualization through practical projects.
 
-## Skills I Am Learning
-- Microsoft Excel
-- SQL
+## Skills I'm Developing
+
 - Python
-- Pandas
+- SQL and MySQL
+- Microsoft Excel
 - Power BI
+- Pandas and NumPy
+- Matplotlib and Seaborn
+- Machine Learning
+- Natural Language Processing (NLP)
+- Streamlit
+- Data Cleaning and Exploratory Data Analysis
 - Git and GitHub
 
 ## Projects
-My projects will be added here as I complete them.
 
-## Learning Goals
-- Strengthen my data analysis fundamentals.
-- Practice with real-world datasets.
-- Build projects that demonstrate my analytical skills.
-- Develop a portfolio for entry-level Data Analyst opportunities.
+### 1. Automated Retail Sales Analytics System
+**Status:** In Progress
 
-This repository will document my learning, practice exercises, and project progress.
+A project to automate retail sales data cleaning, analysis, KPI calculations, visualizations, and report generation using Python and data analytics tools.
+
+More details will be added as the project develops.
+
+## About This Repository
+
+This repository contains my data analytics learning journey and portfolio projects. Each project will have its own folder containing the relevant code, documentation, and other project files.
+
+I will continue improving these projects as I learn new technologies.
