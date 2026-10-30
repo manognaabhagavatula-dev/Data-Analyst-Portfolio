@@ -2,33 +2,41 @@
 
 Welcome to my Data Analyst Portfolio!
 
-I am a B.Sc. Computer Science graduate building my skills in data analytics, Python programming, and data visualization through practical projects.
+I am a B.Sc. Computer Science graduate developing my skills in data analytics, Python programming, SQL, and data visualization through hands-on projects.
 
-## Skills I'm Developing
+## Technical Skills
 
-- Python
-- SQL and MySQL
-- Microsoft Excel
-- Power BI
-- Pandas and NumPy
-- Matplotlib and Seaborn
-- Machine Learning
-- Natural Language Processing (NLP)
-- Streamlit
-- Data Cleaning and Exploratory Data Analysis
-- Git and GitHub
+- **Programming:** Python, SQL, MySQL
+- **Data Analysis:** Pandas, NumPy, Data Cleaning, Exploratory Data Analysis (EDA)
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI
+- **Dashboard Development:** Streamlit
+- **Other Technologies:** Machine Learning, Natural Language Processing (NLP)
+- **Tools:** Microsoft Excel, Git, GitHub
 
 ## Projects
 
-### 1. Automated Retail Sales Analytics System
-**Status:** In Progress
+### 1. Retail Sales Analytics & Business Insights Dashboard
 
-A project to automate retail sales data cleaning, analysis, KPI calculations, visualizations, and report generation using Python and data analytics tools.
+**Status:** Completed
 
-More details will be added as the project develops.
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Streamlit
+
+Developed an interactive, multi-page dashboard to analyze retail sales and profitability using the Superstore dataset.
+
+**Key Features:**
+- Cleaned and prepared sales data for analysis.
+- Analyzed sales and profitability across product categories, subcategories, regions, and time periods.
+- Created interactive visualizations to explore business performance.
+- Identified high-performing categories and regions, as well as loss-making subcategories.
+
+**Project Folder:** `Retail-Sales-Analytics-Business-Insights`
+
+[View Repository](./Retail-Sales-Analytics-Business-Insights)
 
 ## About This Repository
 
-This repository contains my data analytics learning journey and portfolio projects. Each project will have its own folder containing the relevant code, documentation, and other project files.
+This repository showcases my data analytics learning journey and practical projects. Each project is organized in its own folder with relevant code, datasets, documentation, and instructions where applicable.
 
-I will continue improving these projects as I learn new technologies.
+I will continue expanding my portfolio by developing projects, strengthening my technical skills, and exploring new data analytics tools and techniques.
+
+Thank you for visiting my portfolio!
